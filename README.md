@@ -30,4 +30,4 @@ For high-net-worth and institutional users, data privacy is non-negotiable.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/nexus-ai-matchmaker.git](https://github.com/yourusername/nexus-ai-matchmaker.git)
+   git clone https://github.com/mhk652000/ai-matchmaker.git
